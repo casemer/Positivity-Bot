@@ -1,0 +1,21 @@
+{
+  "name": "positivityBot",
+  "version": "1.0.0",
+  "description": "Positivity Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CaseMerrick",
+  "license": "Geneva",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "punycode": "^2.1.1",
+    "qs": "^6.9.4",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.0.2",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^0.25.2"
+  }
+}
